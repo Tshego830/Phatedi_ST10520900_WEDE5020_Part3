@@ -1,9 +1,3 @@
-/* =========================================================
-   Hope Haven Youth Shelter - Site JavaScript
-   Handles: mobile navigation, live occupancy indicator,
-            form validation + confirmation messages.
-   ========================================================= */
-
 (function () {
   "use strict";
 
